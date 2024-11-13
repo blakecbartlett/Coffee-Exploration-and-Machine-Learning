@@ -11,6 +11,7 @@ Whether you're a casual drinker or a coffee connoisseur, this tool aims to make 
 ## *Description:*
 
 This project leverages a comprehensive dataset of coffee, encompassing various categories such as type, cost, origin, flavor profile, and more, to build an interactive recommendation model. The model is designed to analyze consumer preferences entered into the system—such as desired taste, budget, and preferred coffee origin—and output personalized coffee recommendations. By utilizing advanced data analysis and machine learning techniques, the model helps consumers discover new coffee varieties that align with their tastes and preferences, offering a unique, customized coffee-buying experience. 
+(The original repository is located at https://github.com/KrissinaW/Coffee-Exploration---Project-4)
 
 ## *Technologies Used:*
 
